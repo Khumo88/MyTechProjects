@@ -1,1 +1,1 @@
-# Learning-Journey
+chatgpt://oauth_complete/api/auth/callback/openai-sidetron?code=ac_axbUNTz2c8J_Ug-9f9k-uSTExt460Bifbfku3bUXkrs.aDE70gXyDXiyrWkn8zMj02QsH4z4ewEE3lPjFg7tBdQ&state=xLLbX6elLSB6I_3tDKxNjs8E-pE8VP6iOAuRmnMGlCA
