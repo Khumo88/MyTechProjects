@@ -2,36 +2,74 @@
 
 Welcome to **MyTechProjects**, a personal coding journey by Khumo — focused on mastering Python for Cybersecurity and Software Development.
 
-## 📂 Project Structure
+---
 
-This repository contains beginner-friendly Python projects and lessons, including:
+## 🧠 Lessons
 
-| 📁 File Name             | 📌 Description                         |
-|-------------------------|-----------------------------------------|
-| `lesson1.py`            | Variables, input/output basics          |
-| `lesson2.py`            | Working with `int` and `str` types      |
-| `lesson3.py`            | Conditionals and basic logic            |
-| `lesson4.py`            | Nested conditionals and formatting      |
-| `lesson5.py`            | Functions and user input                |
-| `loop_test.py`          | Loop demonstration                      |
-| `age_category.py`       | Categorizes user based on age           |
-| `beauty_score.py`       | Fun: Random beauty score generator 💅   |
-| `password_check.py`     | Checks for strong password structure    |
-| `password_strength.py`  | Evaluates password strength 1–10        |
+> Folder: [`hello-git/lessons`](https://github.com/Khumo88/MyTechProjects/tree/main/hello-git/lessons)
 
-## 🧠 Skills Practiced
+| Lesson | Topic                          | File Name                     |
+|--------|-------------------------------|-------------------------------|
+| 1      | Variables                      | `lesson1_variables.py`        |
+| 2      | User Input                     | `lesson2_user_input.py`       |
+| 3      | If Statements & For Loops      | `lesson3_if_for_loops.py`     |
+| 4      | While Loops & Input Validation | `lesson4_while_validation.py` |
+| 5      | Intro to Functions             | `lesson5_functions.py`        |
+| 6      | Lists and Loops                | `lesson6_lists_loops.py`      |
+| 7      | Dictionaries & Functions       | `lesson7_dictionaries.py`     |
+| 8      | File Handling (.txt files)     | `lesson8_file_handling.py`    |
 
-- Python syntax & indentation  
-- Variables & user input  
-- Conditional statements  
-- Loops and functions  
-- File structure and project organization  
-- Git & GitHub version control basics
+📸 **Screenshot:**
 
-## ✅ Current Goal
-
-To build a strong foundation in Python and explore cybersecurity-focused automation tools.
+![Lesson 6 Output](https://github.com/Khumo88/MyTechProjects/blob/main/hello-git/demo-videos/lesson6_lists_loops.png)
 
 ---
 
-> 💬 “This is just the beginning!” – Khumo
+## ✅ Mini Projects
+
+> Folder: [`hello-git/mini-projects`](https://github.com/Khumo88/MyTechProjects/tree/main/hello-git/mini-projects)
+
+| Project | Description                      | File Name                   |
+|---------|---------------------------------|-----------------------------|
+| 1       | BMI Calculator App               | `mini_project1_bmi.py`      |
+| 2       | Daily Task Planner               | `mini_project2_planner.py`  |
+|         | Password Strength Checker        | `password_strength.py`      |
+|         | Age Category Checker             | `age_category.py`           |
+|         | Beauty Score Rating App          | `beauty_score.py`           |
+|         | Loop-Based Test App              | `loop_test.py`              |
+
+📸 **Screenshot:**
+
+![BMI Output](https://github.com/Khumo88/MyTechProjects/blob/main/hello-git/demo-videos/mini_project1_bmi_output.png)
+
+---
+
+## 🎥 Demo Videos
+
+> Folder: [`hello-git/demo-videos`](https://github.com/Khumo88/MyTechProjects/tree/main/hello-git/demo-videos)
+
+Contains GIFs or short clips of running the apps or lessons for visual reference.
+
+---
+
+## 🔒 License
+
+MIT License – you're free to use or remix with proper credit.  
+[📄 View License](https://github.com/Khumo88/MyTechProjects/blob/main/hello-git/LICENSE)
+
+---
+
+## 🌱 Ongoing Learning
+
+- [x] Completed foundational Python lessons  
+- [x] Committed code via Git & GitHub  
+- [x] Ran all projects from VS Code / Git Bash  
+- [x] Started working with real-world file handling and logic  
+- [ ] Coming soon: Cybersecurity scripts
+
+---
+
+## 🔗 Connect
+
+Want to see more?  
+Reach out on LinkedIn or include this repo in your CV or internship application when ready.
