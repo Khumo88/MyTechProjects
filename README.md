@@ -30,7 +30,7 @@ Welcome to **MyTechProjects**, a personal coding journey by Khumo — focused on
 > Folder: [`hello-git/mini-projects`](https://github.com/Khumo88/MyTechProjects/tree/main/hello-git/mini-projects)
 
 | Project | Description                      | File Name                   |
-|---------|---------------------------------|-----------------------------|
+|---------|----------------------------------|-----------------------------|
 | 1       | BMI Calculator App               | `mini_project1_bmi.py`      |
 | 2       | Daily Task Planner               | `mini_project2_planner.py`  |
 |         | Password Strength Checker        | `password_strength.py`      |
@@ -52,6 +52,27 @@ Contains GIFs or short clips of running the apps or lessons for visual reference
 
 ---
 
+## 🛡️ Cybersecurity Scripts
+
+> Folder: [`hello-git/04-cyber_scripts`](https://github.com/Khumo88/MyTechProjects/tree/main/hello-git/04-cyber_scripts)
+
+| Script                | Description                                  | File Name                  |
+|-----------------------|----------------------------------------------|----------------------------|
+| 🔍 Port Scanner       | Scans common ports (1–1024) on a target host | `port_scanner.py`          |
+| 🧪 Log File Checker    | Displays log warnings & errors by line       | `log_file_checker.py`      |
+| 🔐 Password Generator | Generates secure passwords                   | `password_generator.py`    |
+
+📁 **Test / Output Files:**
+
+| File Name               | Purpose                                    |
+|-------------------------|--------------------------------------------|
+| `sample_log.txt`        | Sample file with WARNING/ERROR logs        |
+| `sample2_log.txt`       | Clean log file for testing                 |
+| `generated_password.txt`| Stores the latest generated password       |
+| `open_ports.txt`        | Stores results from latest port scan       |
+
+---
+
 ## 🔒 License
 
 MIT License – you're free to use or remix with proper credit.  
@@ -65,7 +86,8 @@ MIT License – you're free to use or remix with proper credit.
 - [x] Committed code via Git & GitHub  
 - [x] Ran all projects from VS Code / Git Bash  
 - [x] Started working with real-world file handling and logic  
-- [ ] Coming soon: Cybersecurity scripts
+- [x] Completed cybersecurity scripts  
+- [ ] Coming soon: Advanced automation, web scraping, or APIs
 
 ---
 
