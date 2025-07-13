@@ -1,0 +1,6 @@
+INFO: Server started at 09:00
+INFO: Listening on port 8080
+WARNING: Disk space low
+INFO: New user registered
+ERROR: Failed to load module
+INFO: Shutdown initiated
