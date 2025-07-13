@@ -1,0 +1,5 @@
+INFO: System boot complete
+WARNING: Disk space low
+INFO: Running background check
+ERROR: Failed to load module
+INFO: Log rotation completed
