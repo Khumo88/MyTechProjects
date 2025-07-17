@@ -1,1 +1,2 @@
 Khumoetsile, Age: 37, BMI: 33.06, Category: Obese
+Khumo, Age: 37, BMI: 28.65, Category: Overweight

@@ -1,0 +1,3 @@
+Hello, this is a file handling example.
+We are learning how to read and write files in Python.
+This line is appended to the file.
